@@ -61,7 +61,7 @@ git config --list
 
 git clone https://github.com/sharvik22/shvirtd-example-python.git && cd shvirtd-example-python
 
-вдальнейшем 
+в дальнейшем 
 
 git add .
 
