@@ -29,6 +29,7 @@ See 'snap info docker' for additional versions.
 
 ## Решение 0
 
+![image](https://github.com/user-attachments/assets/46cfe7f3-653c-4bea-beae-841d3aae47b8)
 
 ---
 
