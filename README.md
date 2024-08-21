@@ -202,6 +202,9 @@ sql запросы:
 
 ![image](https://github.com/user-attachments/assets/f64312d2-d5cb-4059-8db2-688eb196a034)
 
+Извлек бинарный файл /bin/terraform из сохраненного образа:
+
+![image](https://github.com/user-attachments/assets/4749b211-e18f-41a8-8cc3-e221a5e570d6)
 
 
 
