@@ -119,6 +119,23 @@ docker build -t python -f Dockerfile.python .
 
 ## Решение 3
 
+![image](https://github.com/user-attachments/assets/6baba600-7374-4ffa-96d0-0de93b7155a4)
+
+Подключение в db
+
+![image](https://github.com/user-attachments/assets/7bd35044-ad6c-4875-8642-c007d0e320e8)
+
+Запросы
+
+![image](https://github.com/user-attachments/assets/7d6697f8-f619-47a5-a37e-4aaab4c6c6ae)
+
+команды sql запросов:
+
+show databases;
+use virtd; 
+show tables;
+SELECT * from requests LIMIT 10;
+
 ---
 
 ## Задача 4
