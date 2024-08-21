@@ -164,7 +164,7 @@ SELECT * from requests LIMIT 10;
 
 ![image](https://github.com/user-attachments/assets/4e1ca1dc-396d-4c0c-9178-52d3b6806447)
 
-запуск контейнеров
+выполнение скрипта 
 
 ![image](https://github.com/user-attachments/assets/062af89b-1b55-4dd5-a057-13a97a8d849a)
 
