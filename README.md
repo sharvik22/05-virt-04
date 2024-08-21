@@ -69,7 +69,8 @@ git add .
 
 git push https://ghp_ЧЧЧЧЧЧЧЧЧЧТТТТТТТТТТТОООООООООООООgithub.com/sharvik22/shvirtd-example-python.git
 
-2) Создайте файл с именем ```Dockerfile.python```
+2) Создайте файл с именем ```Dockerfile.python```:
+
    
 FROM python:3.9-slim
 
