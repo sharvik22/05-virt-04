@@ -47,6 +47,7 @@ See 'snap info docker' for additional versions.
 ## Решение 1
 
 1) Сделал fork репозитория ```https://github.com/netology-code/shvirtd-example-python/blob/main/README.md```
+   
 Для последующих действий с репозиторием использовал команыды:
 
 
