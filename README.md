@@ -54,6 +54,7 @@ See 'snap info docker' for additional versions.
 
 
 git config --global user.email "sharvik22@mail.ru"
+
 git config --global user.name "VIKTOR"
 
 git config --list
