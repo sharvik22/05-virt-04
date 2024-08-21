@@ -46,6 +46,47 @@ See 'snap info docker' for additional versions.
 
 ## Решение 1
 
+1) Сделал fork репозитория ```https://github.com/netology-code/shvirtd-example-python/blob/main/README.md```
+Для последующих действий с репозиторием использовал команыды:
+
+
+git config --global user.email "sharvik22@mail.ru"
+git config --global user.name "VIKTOR"
+
+git config --list
+
+git clone https://github.com/sharvik22/shvirtd-example-python.git && cd shvirtd-example-python
+
+в дальнейшем 
+
+git add .
+
+и git commit -m '******'
+
+git push https://ghp_ЧЧЧЧЧЧЧЧЧЧТТТТТТТТТТТОООООООООООООgithub.com/sharvik22/shvirtd-example-python.git
+
+2) Создайте файл с именем ```Dockerfile.python```
+   
+FROM python:3.9-slim
+WORKDIR /app
+COPY requirements.txt ./
+RUN pip install -r requirements.txt
+COPY main.py ./
+CMD ["python", "main.py"]
+
+P.S. Важный момент возникает ошибка на сегоднейний день
+
+![image](https://github.com/user-attachments/assets/cce099b3-ac7d-4654-91b4-c0635096927f)
+
+У меня возникла ошибка связана с доступом для загрузки зависимостям pip install, но не со стороны хостовой машины, а именно docker, хотя всё скачивается и ставить без проблем. 
+Решилось это бонально, после 2 часов поиска и различный проб вариантов.
+
+На основе Dockerfile.python был собран образ, и запущен контейнекер для проверки
+
+docker build -t python -f Dockerfile.python .
+
+![image](https://github.com/user-attachments/assets/7999c1a8-f9b7-4b3b-9721-d81a3502911e)
+
 ---
 
 ## Задача 3
