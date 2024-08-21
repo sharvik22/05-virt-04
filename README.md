@@ -190,15 +190,9 @@ sql запросы:
 
 ## Решение 6
 
-Установил команлами:
-
-wget https://github.com/wagoodman/dive/releases/download/v0.9.2/dive_0.9.2_linux_amd64.deb
-
-sudo dpkg -i dive_0.9.2_linux_amd64.deb
+скачал образ terraform 
 
 ![image](https://github.com/user-attachments/assets/390b358e-e54e-47a8-9e66-75d8faf9f3e7)
-
-скачал образ terraform 
 
 ![image](https://github.com/user-attachments/assets/d19f8c15-e1b9-47eb-a5f4-b6504dac9ddd)
 
