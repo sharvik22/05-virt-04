@@ -176,7 +176,7 @@ SELECT * from requests LIMIT 10;
 
 ![image](https://github.com/user-attachments/assets/76756eac-f58d-453f-b5ab-1b07d10ed020)
 
-запросы:
+sql запросы:
 
 ![image](https://github.com/user-attachments/assets/98682ecc-f4d0-4a9d-89d4-23d7b8c27000)
 
