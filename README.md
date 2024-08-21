@@ -50,7 +50,7 @@ See 'snap info docker' for additional versions.
 
 1) Сделал fork репозитория ```https://github.com/netology-code/shvirtd-example-python/blob/main/README.md```
    
-Для последующих действий с репозиторием использовал команыды:
+Для последующих действий с репозиторием использовал команды:
 
 
 git config --global user.email "sharvik22@mail.ru"
