@@ -31,6 +31,8 @@ See 'snap info docker' for additional versions.
 
 ![image](https://github.com/user-attachments/assets/46cfe7f3-653c-4bea-beae-841d3aae47b8)
 
+![image](https://github.com/user-attachments/assets/9d12a2bc-2141-45c6-99ec-f1a66df1d8e0)
+
 ---
 
 ## Задача 1
