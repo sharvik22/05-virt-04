@@ -135,9 +135,13 @@ docker build -t python -f Dockerfile.python .
 команды sql запросов:
 
 show databases;
+
 use virtd; 
+
 show tables;
+
 SELECT * from requests LIMIT 10;
+
 
 ---
 
