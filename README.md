@@ -156,6 +156,32 @@ SELECT * from requests LIMIT 10;
 
 ## Решение 4
 
+Из заданий по terraform создал ВМ Yandex Cloud
+
+![image](https://github.com/user-attachments/assets/87dfb03f-60a0-4972-b149-3a58681b1aa7)
+
+создал скрипт и подключился по ssh к ВМ
+
+![image](https://github.com/user-attachments/assets/4e1ca1dc-396d-4c0c-9178-52d3b6806447)
+
+запуск контейнеров
+
+![image](https://github.com/user-attachments/assets/062af89b-1b55-4dd5-a057-13a97a8d849a)
+
+в связи с проблемами сети не смог выловить 
+
+![image](https://github.com/user-attachments/assets/0ae9108d-3d42-46db-8507-7811f6b90c82)
+
+у меня открытие браузера весь день, когда выполнял ДЗ
+
+![image](https://github.com/user-attachments/assets/76756eac-f58d-453f-b5ab-1b07d10ed020)
+
+запросы:
+
+![image](https://github.com/user-attachments/assets/98682ecc-f4d0-4a9d-89d4-23d7b8c27000)
+
+
+
 ---
 
 ## Задача 6
