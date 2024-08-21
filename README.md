@@ -196,6 +196,14 @@ sql запросы:
 
 ![image](https://github.com/user-attachments/assets/d19f8c15-e1b9-47eb-a5f4-b6504dac9ddd)
 
+![image](https://github.com/user-attachments/assets/704031c4-02bb-40b9-886b-8f043620dd90)
+
+сохранил образ в файл
+
+![image](https://github.com/user-attachments/assets/f64312d2-d5cb-4059-8db2-688eb196a034)
+
+
+
 
 ---
 
