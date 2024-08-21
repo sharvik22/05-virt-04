@@ -168,7 +168,7 @@ SELECT * from requests LIMIT 10;
 
 ![image](https://github.com/user-attachments/assets/062af89b-1b55-4dd5-a057-13a97a8d849a)
 
-в связи с проблемами сети не смог выловить 
+в связи с проблемами сети не смог выловить (да, я староннык Opera)
 
 ![image](https://github.com/user-attachments/assets/0ae9108d-3d42-46db-8507-7811f6b90c82)
 
