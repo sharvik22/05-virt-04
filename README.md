@@ -120,6 +120,8 @@ docker build -t python -f Dockerfile.python .
 
 ## Решение 3
 
+запуск docker compose up -d 
+
 ![image](https://github.com/user-attachments/assets/6baba600-7374-4ffa-96d0-0de93b7155a4)
 
 Подключение в db
