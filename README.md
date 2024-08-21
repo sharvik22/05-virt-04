@@ -156,7 +156,7 @@ SELECT * from requests LIMIT 10;
 
 ## Решение 4
 
-Из заданий по terraform создал ВМ Yandex Cloud
+С помпощью terraform создал ВМ Yandex Cloud
 
 ![image](https://github.com/user-attachments/assets/87dfb03f-60a0-4972-b149-3a58681b1aa7)
 
