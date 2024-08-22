@@ -207,13 +207,18 @@ sql запросы:
 
 скачал образ terraform 
 
-![image](https://github.com/user-attachments/assets/69bcad6b-528c-4aee-b048-803449cdece3)
+![image](https://github.com/user-attachments/assets/8bfffb97-e10b-4032-91c5-34494f5b4b7c)
 
 
 запустил контейнер 
 
 
+скопировал на локальную машину
 
+![image](https://github.com/user-attachments/assets/97a2dc3c-ca1d-4dce-9e08-b9f1cca42d32)
+
+
+![image](https://github.com/user-attachments/assets/bcdbd2de-31d3-4913-834c-1fd413aa7da8)
 
 ---
 
