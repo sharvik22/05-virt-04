@@ -192,9 +192,8 @@ sql запросы:
 
 скачал образ terraform 
 
-![image](https://github.com/user-attachments/assets/390b358e-e54e-47a8-9e66-75d8faf9f3e7)
+![image](https://github.com/user-attachments/assets/dc88d3bf-1d29-40ec-b518-604a884170f8)
 
-![image](https://github.com/user-attachments/assets/d19f8c15-e1b9-47eb-a5f4-b6504dac9ddd)
 
 
 
@@ -208,9 +207,8 @@ sql запросы:
 
 скачал образ terraform 
 
-![image](https://github.com/user-attachments/assets/390b358e-e54e-47a8-9e66-75d8faf9f3e7)
+![image](https://github.com/user-attachments/assets/69bcad6b-528c-4aee-b048-803449cdece3)
 
-![image](https://github.com/user-attachments/assets/d19f8c15-e1b9-47eb-a5f4-b6504dac9ddd)
 
 запустил контейнер 
 
