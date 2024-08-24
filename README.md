@@ -200,11 +200,9 @@ dive hashicorp/terraform:latest
 ![image](https://github.com/user-attachments/assets/6646528a-2815-4019-a634-a7bda1cebae3)
 
 
+tar -xvf terraform.tar bf3e32717f01f768e465ab01d1e0ae9e4954ef3fe9b23180b264309aa9c61257/layer.tar
 
-
-
-
-
+tar -xvf bf3e32717f01f768e465ab01d1e0ae9e4954ef3fe9b23180b264309aa9c61257/layer.tar bin/terraform
 
 ---
 
