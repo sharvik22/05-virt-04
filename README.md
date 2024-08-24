@@ -190,12 +190,7 @@ sql запросы:
 
 ## Решение 6
 
-скачал образ terraform 
-
-![image](https://github.com/user-attachments/assets/dc88d3bf-1d29-40ec-b518-604a884170f8)
-
-
-
+пока нет решения 
 
 ---
 
