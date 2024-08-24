@@ -205,7 +205,7 @@ sql запросы:
 
 ## Решение 6.1
 
-![image](https://github.com/user-attachments/assets/c80f3987-6580-4eb3-8c3e-ba284b810648)
+![image](https://github.com/user-attachments/assets/a0161459-b01c-4681-868b-f6155e07dc70)
 
 ---
 
