@@ -190,7 +190,18 @@ sql запросы:
 
 ## Решение 6
 
-пока нет решения 
+скачал образ terraform 
+
+![image](https://github.com/user-attachments/assets/916acbd3-2e43-4b4d-8af5-c7c01ecb0520)
+
+
+Сохранил Docker-образ в tar-файле
+
+![image](https://github.com/user-attachments/assets/0311dc75-fff0-4f4b-b522-1f8b052c75f8)
+
+Извлёк бинарный файл из Docker-образа
+
+
 
 ---
 
