@@ -67,7 +67,7 @@ git add .
 
 и git commit -m '******'
 
-git push https://ghp_ЧЧЧЧЧЧЧЧЧЧТТТТТТТТТТТОООООООООООООgithub.com/sharvik22/shvirtd-example-python.git
+git push https://ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXgithub.com/sharvik22/shvirtd-example-python.git
 
 2) Создайте файл с именем ```Dockerfile.python```:
 
