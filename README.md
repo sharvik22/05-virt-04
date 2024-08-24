@@ -205,20 +205,7 @@ sql запросы:
 
 ## Решение 6.1
 
-скачал образ terraform 
-
-![image](https://github.com/user-attachments/assets/8bfffb97-e10b-4032-91c5-34494f5b4b7c)
-
-
-запустил контейнер 
-
-
-скопировал на локальную машину
-
-![image](https://github.com/user-attachments/assets/97a2dc3c-ca1d-4dce-9e08-b9f1cca42d32)
-
-
-![image](https://github.com/user-attachments/assets/bcdbd2de-31d3-4913-834c-1fd413aa7da8)
+![image](https://github.com/user-attachments/assets/c80f3987-6580-4eb3-8c3e-ba284b810648)
 
 ---
 
