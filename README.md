@@ -214,7 +214,12 @@ dive hashicorp/terraform:latest
 
 ## Решение 6.1
 
-![image](https://github.com/user-attachments/assets/a0161459-b01c-4681-868b-f6155e07dc70)
+docker pull hashicorp/terraform:latest
+docker cp $(docker create --name tc hashicorp/terraform:latest):/bin/terraform ./terraform
+ls terraform
+
+![image](https://github.com/user-attachments/assets/ef2a0453-14b4-4027-8d4b-8906e92f6b28)
+
 
 ---
 
