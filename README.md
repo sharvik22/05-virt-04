@@ -172,15 +172,9 @@ SELECT * from requests LIMIT 10;
 
 ![image](https://github.com/user-attachments/assets/0ae9108d-3d42-46db-8507-7811f6b90c82)
 
-у меня открытие браузера весь день, когда выполнял ДЗ (да, я староннык браузера Opera)
-
-![image](https://github.com/user-attachments/assets/76756eac-f58d-453f-b5ab-1b07d10ed020)
-
 sql запросы:
 
 ![image](https://github.com/user-attachments/assets/98682ecc-f4d0-4a9d-89d4-23d7b8c27000)
-
-
 
 ---
 
