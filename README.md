@@ -184,16 +184,25 @@ sql запросы:
 
 ## Решение 6
 
-скачал образ terraform 
+docker pull hashicorp/terraform:latest
 
-![image](https://github.com/user-attachments/assets/916acbd3-2e43-4b4d-8af5-c7c01ecb0520)
+![image](https://github.com/user-attachments/assets/9e052f96-7d8e-400f-95d2-9a932c70317c)
+
+docker save -o terraform.tar hashicorp/terraform:latest
+
+![image](https://github.com/user-attachments/assets/c4ce4bf9-7ff1-4ef8-ae53-4042b2565835)
 
 
-Сохранил Docker-образ в tar-файле
+проанализировал слои образа
 
-![image](https://github.com/user-attachments/assets/0311dc75-fff0-4f4b-b522-1f8b052c75f8)
+dive hashicorp/terraform:latest
 
-Извлёк бинарный файл из Docker-образа
+![image](https://github.com/user-attachments/assets/6646528a-2815-4019-a634-a7bda1cebae3)
+
+
+
+
+
 
 
 
